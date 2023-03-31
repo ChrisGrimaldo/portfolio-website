@@ -1,3 +1,3 @@
 # Portfolio
 
-Creating my professional website for showcasing my Front-End Engineering journey!
+Creating my professional website for showcasing my Front-End Engineering journey.
